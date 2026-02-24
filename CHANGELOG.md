@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bouola/opentofu-module-vault-policies/compare/v1.0.0...v1.1.0) (2026-02-24)
+
+
+### Features
+
+* add default value for `vault_hcl_policies_directory_path` input variable ([16f78e2](https://github.com/bouola/opentofu-module-vault-policies/commit/16f78e2ac45adb4d7180b3da840c7b0577d85068))
+
 # 1.0.0 (2026-02-24)
 
 
